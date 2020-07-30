@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Givol</string>
+    <string name="sign_up">Don\'t have an account?Signup</string>
+    <string name="already_account">Already have an account?SignIn</string>
+    <array name="drawertitles">
+        <item>HOME</item>
+        <item>ACTIVE CONTEST</item>
+        <item>FINISHED CONTEST</item>
+        <item>WINNING CONTEST</item>
+        <item>RECENT</item>
+        <item>MY LOCATION</item>
+    </array>
+    <array name="drawertitles1">
+        <item>ABOUT APP</item>
+        <item>TERM &amp; CONDITION</item>
+        <item>PRIVACY POLICY</item>
+        <item>LOG OUT</item>
+    </array>
+    <string name="country_prompt">Category</string>
+    <string name="address">1/C 1/D,Road 16,Nikunja-2,Dhaka</string>
+    <string-array name="country_arrays">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+    <string name="text1">Lorem ipsum dolar sit a met,consecteture adipiscing elit,seddium Lorem ipsum dolar sit a met,consecteture adipiscing elit,seddium</string>
+    <string name="loving_it">I\' in loving it</string>
+    <string name="xl_pizza">XLPizza Plus extra 2 Toppings</string>
+    <string name="xl_pizza_plus">XL PIZZA PLUS EXTRA 2 TOPPING</string>
+    <string name="collect_prizes">How to Collect Prizes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="special_course">SPECIAL RECIPE COURSE CONTEST</string>
+    <string name="terms_condition">I agree to contest terms and conditions</string>
+    <string name="view_terms">View Terms and Conditions</string>
+    <string name="terms_conditions">Terms and Conditions</string>
+    String[] end_time=new String[]{"End Time","1 days","1 weeks","1 months","More than 1 month"};
+    <string-array name="currencies">
+        <item>Participants</item>
+        <item>1-10</item>
+        <item>10-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+        <item>51-60</item>
+        <item>61-70</item>
+        <item>71-80</item>
+        <item>81-90</item>
+        <item>90+</item>
+    </string-array>
+    <string-array name="end_time">
+        <item>End Time</item>
+        <item>1 days</item>
+        <item>1 weeks</item>
+        <item>1 months</item>
+        <item>More than 1 month</item>
+    </string-array>
+
+    <!--TODO: Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">334002910911072</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb334002910911072</string>
+
+</resources>

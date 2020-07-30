@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "849852383203",
+    "firebase_url": "https://newcontestapp.firebaseio.com",
+    "project_id": "newcontestapp",
+    "storage_bucket": "newcontestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849852383203:android:ee5e993cf45e326ded2ad6",
+        "android_client_info": {
+          "package_name": "com.technology.givol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849852383203-490c6kssp6q952j12bcggiefgaqcmppo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technology.givol",
+            "certificate_hash": "ac28dd128f234274648777d2aae8c0f945417fa1"
+          }
+        },
+        {
+          "client_id": "849852383203-1ds3rsk2n08h5rl1510bnn1sh5so1eef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAygQGH3P-dIJz1FuzbuDdjoN7YpTY49ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849852383203-1ds3rsk2n08h5rl1510bnn1sh5so1eef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
